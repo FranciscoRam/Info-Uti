@@ -11,6 +11,13 @@ En este repositorio se podra encontrar información sobre el uso de git.
 
 *   ```git branch```: Con este comando podremos ver las ramas en el proyecto y estara remarcada la rama en la que te encuentras.
 *   ```git branch NameRama```: Para poder cerar una rama usaremos este comando.
-
+*   ```git branch -D NameRama```: Este comando sirve para eliminar una rama.
 *   ```git checkout NameRama```: Para poder posicionarnos en una de las ramas que existen en nuestro proyecto
+* ```git checkout -b NameRama```: Este comando crea la rama y despues nos pone en esa rama.
+*   ```git merge RamaAFucionar```: Para poder fucionar una rama a otra utilizaremos este comando.
+*   ```git remote add origin UrlRepositorio```: Para poder conectar nuestro proyecto a un repositorio remoto en github usamos este comando.
 
+*   ```git remote -v```: para poder ver el repositorio al cual estamos conectados.
+*   ```git remote remove origin```: Para eliminar esa conexion con el repositorio remoto.
+
+*   ```git push origin NameRama```: Para subir el proyecto al repositorio remoto usamos este comando.
