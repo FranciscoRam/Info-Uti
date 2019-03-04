@@ -42,7 +42,7 @@ En este repositorio se podra encontrar información sobre el uso de git.
 
 *   ```git fetch origin```: Baja los cambios del repositorio remoto a la rama oculta origin/master.
 
-*   ```git merge origin/master```: Para combinar nuestra rama local con la rama origin/master.
+*   ```git merge origin/NAME-RAMA```: Para combinar nuestra rama local con la rama origin/master.
 
 ## Conflict
  Cuando un colaborador del proyecto sube una actualización del proyecto y otro colaborardor trata de actualizar abra un conflicto de versiones.
