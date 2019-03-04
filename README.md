@@ -35,3 +35,11 @@ En este repositorio se podra encontrar información sobre el uso de git.
 *   ```git push origin TAG-Name```: De este modo subimos nuestro tag a nuestro repositorio remoto.
 
 *   ```git push origin --tags```: Para subir todos los tags al repositorio remoto.
+
+## Workflow
+
+*   ```git branch -a```: Para mostrar las ramas ocultas.
+
+*   ```git fetch origin```: Baja los cambios del repositorio remoto a la rama oculta origin/master.
+
+*   ```git merge origin/master```: Para combinar nuestra rama local con la rama origin/master.
