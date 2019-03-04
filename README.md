@@ -21,3 +21,17 @@ En este repositorio se podra encontrar información sobre el uso de git.
 *   ```git remote remove origin```: Para eliminar esa conexion con el repositorio remoto.
 
 *   ```git push origin NameRama```: Para subir el proyecto al repositorio remoto usamos este comando.
+
+*   ```git commit --amend -m "cambio de nombre de git"```: Comando que nos sirve para poder cambiar el nombre del ultimo git que hicimos.
+
+*   ```git push origin master -f```: Fuerza la subida del repositorio local al repositorio remoto.
+
+*   ```git tag -a v1.0 -m "MENSAJE" ```: Las tags anotadas son almacenadas como objetos completos dentro de la base de Git y contienen mas información, se le asigana el tag al ultimo commit.
+
+*   ```git tag v1.0``` : Las tags ligeras, son otra forma de crear tags, más simples y con poca información.
+
+*   ```git tag -a v1.0 -m "MENSAJE" Codigo-SHA```: De este modo podemos especificar en que commit se va a aplicar el tag. El codigo SHA es el codigo de nuestro commit, lo podemos observar con el comando ```git log ```.
+
+*   ```git push origin TAG-Name```: De este modo subimos nuestro tag a nuestro repositorio remoto.
+
+*   ```git push origin --tags```: Para subir todos los tags al repositorio remoto.
