@@ -48,5 +48,5 @@ En este repositorio se podra encontrar información sobre el uso de git.
  Cuando un colaborador del proyecto sube una actualización del proyecto y otro colaborardor trata de actualizar abra un conflicto de versiones.
 
 
- ## Prueba 
+ ## Prueba2V02
  Esto solo es una prueba para un push y un fetch.
