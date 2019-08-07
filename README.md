@@ -2,7 +2,7 @@
 
 Este repositorio tiene la finalidad de recopilar información que pueda ser util a programadores.
 
-A continuación se expondran diferentes ligas conectadas que estan conectadas al mismo repositorio.
+A continuación se expondran diferentes ligas que estan conectadas al mismo repositorio.
 
 [Git](git/git-course.md)
 
