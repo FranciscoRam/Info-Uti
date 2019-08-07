@@ -1,8 +1,8 @@
 # Información para desarrolladores
 
-Este repositorio tiene la finalidad de recopilar información que pueda ser util a programadores.
+Este repositorio se estara ecopilando información sobre diferentes herramientas.
 
-A continuación se expondran diferentes ligas que estan conectadas al mismo repositorio.
+Las siguientes son ligas sobre diferentes herramientas, estas ligas estan conectadas al mismo repositorio.
 
 [Git](git/git-course.md)
 

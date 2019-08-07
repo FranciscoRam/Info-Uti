@@ -1,5 +1,5 @@
 # Instalar PostgreSQL
-El motor de base de datos que se usa por default en proyectos de **rails** es **SQLite**, para ese caso no es necesario instalar nada, pero en caso de querer usar otro, que en este caso seria PostgreSQL es necesario instalarlo.
+Para poder instalar PostgreSQL en sus sistema Ubuntu siga los pasos a continuación.
 
 *   Es necesario primero instalar una libreria ```sudo apt-get install libpq-dev```
 
