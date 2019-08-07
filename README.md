@@ -1,6 +1,6 @@
 # Información para desarrolladores
 
-Este repositorio se estara ecopilando información sobre diferentes herramientas.
+En este repositorio se estara recopilando información sobre diferentes herramientas.
 
 Las siguientes son ligas sobre diferentes herramientas, estas ligas estan conectadas al mismo repositorio.
 
