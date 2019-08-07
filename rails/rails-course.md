@@ -1,4 +1,16 @@
-## Ruby on Rails
+# Ruby on Rails
+
+----------------------------------------
+## Información adicional
+**[instalación de Ruby on Rails](./install_ubu.md)**.
+
+**[Información de SQLite3](../sqlite3/sqlite3.md).**
+
+**[Instalación PostgreSQL](./../postgresql/install.md).**
+
+**[Información PostgreSQL](./../postgresql/info.md).**
+
+----------------------------------------
 A continuación se explicaran varios comandos utiles en el desarrollo de proyectos usando **Ruby on Rails**.
 
 ## Instalación en ubuntu
@@ -8,8 +20,6 @@ A continuación se explicaran varios comandos utiles en el desarrollo de proyect
 *   ```rails new NameProject```: Para poder crear un proyecto usando como base de datos sqlite3.
 
 *   ```rails db```: Para acceder a la base de datos sqlite3 de nuestro proyecto.
-
-**Para ver un poco del manejo de sqlite3 visite [aqui](../sqlite3/sqlite3.md).**
 
 *   ```rails new NameProject --database=postgresql```: Para crear un proyecto usando como motor de base de datos postgresql.
 

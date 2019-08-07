@@ -1,8 +1,13 @@
 # Información para desarrolladores
-A continuación se expondra diferentes ligas conectadas al mismo repositorio con información sobre diferentes temas de utilidad para desarrolladores.
+
+Este repositorio tiene la finalidad de recopilar información que pueda ser util a programadores.
+
+A continuación se expondran diferentes ligas conectadas que estan conectadas al mismo repositorio.
 
 [Git](git/git-course.md)
 
 [sqlite3](sqlite3/sqlite3.md)
 
-[rails](rails//rails-course.md)
+[Ruby on Rails](rails//rails-course.md)
+
+[PostgreSQL](postgresql/info.md)
