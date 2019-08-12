@@ -2,7 +2,7 @@
 
 ----------------------------------------
 ## Información adicional
-**[instalación de Ruby on Rails](./install_ubu.md)**.
+**[instalación de Ruby on Rails](./install-ubu.md)**.
 
 **[Información de SQLite3](../sqlite3/sqlite3.md).**
 
