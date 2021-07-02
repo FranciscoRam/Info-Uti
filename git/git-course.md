@@ -13,8 +13,8 @@ Comandos de git para el manejo del versionamiento en los proyectos.
 *   ```git init```: Con este comando inicializamos el versionamiento en nuestro proyecto.
 *   ```git status```: Con este comando podremos saber el estado del proyecto, archivos modificados, creados, en staging area y listos para repositorio.
 *   ```git add -A```: Con este comando agregamos los archivos al area de espera.
-*   ```git commit -m "first Commit"```: Ahora agregamos el proyecto al area del repositorio para poder publicarlo al repositorio.
-*   ```git commit -a -m "first commit"```: Es la combinación de los dos comandos anteriores.
+*   ```git commit -m "first Commit"```: Agrega lo que se encuentra en el area de espera al area del repositorio para poder publicarlo al repositorio.
+*   ```git commit -a -m "first commit"```: Agrega solo los archivos que fueron modificados hasta el area del repositorio.
 *   ```git clone URL-Repositorio```: con este comando se podra clonar el proyecto del repositorio de la url, de debe tener en cuenta de que se hay archivos importantes para el funcionamiento de proyecto mencionados en el **.gitignore** entonces no funcionara el proyecto al ejecutarlo despues de clonarlo.
 
 *   ```git branch```: Con este comando podremos ver las ramas en el proyecto y estara remarcada la rama en la que te encuentras.
