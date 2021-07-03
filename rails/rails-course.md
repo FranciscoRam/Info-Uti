@@ -2,7 +2,9 @@
 
 ----------------------------------------
 ## Información adicional
-**[instalación de Ruby on Rails](./install-ubu.md)**.
+**Instalación de Ruby on Rails**
+**[Ubuntu](./install/install_ubu.md)**.
+**[Kali Linux](./install/install_kali)**
 
 **[Información de SQLite3](../sqlite3/sqlite3.md).**
 

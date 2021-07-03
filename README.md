@@ -2,6 +2,17 @@
 
 En este repositorio se documentara información util en la programación.
 
+## Operating System (OS)
+-----
+Un sistema operativo es un conjunto de programas que permite manejar la memoria, disco, medios de almacenamiento de información y los diferentes periféricos o recursos de nuestra computadora, como son el teclado, el mouse, la impresora, la placa de red, entre otros.
+
+***[fuente](https://desarrollarinclusion.cilsa.org/tecnologia-inclusiva/que-es-un-sistema-operativo/#:~:text=Un%20sistema%20operativo%20es%20un,placa%20de%20red%2C%20entre%20otros.)***
+
+### [Kal linux](./operating_system/kali_linux.md)
+Kali Linux es una distribución de Linux de código abierto basada en Debian orientada a diversas tareas de seguridad de la información, como pruebas de penetración, investigación de seguridad, informática forense e ingeniería inversa.
+
+***[fuente](https://www.kali.org/)***
+
 ## Sistema de control de versiones
 -------------
 Un control de versiones es un sistema que registra los cambios realizados en un archivo o conjunto de archivos a lo largo del tiempo, de modo que puedas recuperar versiones específicas más adelante.

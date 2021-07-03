@@ -1,4 +1,4 @@
-# Instalación de Ruby On Rails en ubuntu
+## Instalación de Ruby On Rails en ubuntu
 
 A continuacion se explicara como instalar **Ruby on Rails** en ubuntu.
 
